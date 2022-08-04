@@ -1,0 +1,13 @@
+output/*
+.vscode/*
+bin/*
+*.xml
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+*.test
+go.work
