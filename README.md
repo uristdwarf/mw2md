@@ -1,6 +1,7 @@
 # mw2md
 ## A dead simple tool for converting a MediaWiki backup to Markdown files
 Useful for moving from MediaWiki to other wiki platforms which use Markdown
+
 Requires pandoc to be installed in PATH
 
 Usage:
